@@ -54,5 +54,8 @@ This project showcases a comprehensive data analysis workflow using Microsoft Ex
 ---
 
 ## 📸 Report Preview
-![Dashboard Preview](preview.png) *(Upload a screenshot and name it `preview.png`)*
+![Dashboard Preview](preview.png)
+
+## 📫 Contact
+Rajababu Ray
 
